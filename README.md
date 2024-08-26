@@ -16,3 +16,6 @@ The R file `logistic_subtype_5.R` includes the code for the real-data analysis i
 
 ## Table and figure generation
 We used R file `rs_summary.R` to summarize the output results from simulations and the real-data study, and generate all the tables and figures in our paper. The users may need to translate the tables output by the code to the Lates format.
+
+## Reference
+Tian, Y., Rusinek, H., Masurkar, A. V., & Feng, Y. (2023). $\ell_1$-penalized Multinomial Regression: Estimation, inference, and prediction, with an application to risk factor identification for different dementia subtypes. arXiv preprint arXiv:2302.02310.
